@@ -109,13 +109,14 @@ span{
 .Contact
 {
     float: left;
-    margin: 200px;
+    margin: 125px;
     color:saddlebrown;
 }
 #insta
 {
     height: 300px;
     width: 300px;
-    margin-top: 65px;
-    float: auto;
+    margin: 60px;
+    margin-right: 200px;
+    float: right;
 }
