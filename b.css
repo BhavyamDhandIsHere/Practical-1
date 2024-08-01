@@ -1,0 +1,121 @@
+body{
+    background-image: linear-gradient(indigo,blue,purple,red);
+}
+
+header
+{
+    background-image: radial-gradient(khaki,yellow);
+    border: 3px black solid;
+    text-align: center;
+    margin-bottom: 5px;
+    box-sizing: border-box;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+img{
+    margin-top: 40px
+}
+#car
+{
+    background-image: radial-gradient(yellow,orange);
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    height: 900px;
+    border: 3px black solid;
+    box-sizing: border-box;
+    float: right;
+    font-size: 35px;
+    color: rgb(20, 57, 220);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+aside{
+    background-image: radial-gradient(rgb(0, 162, 255),rgb(1, 255, 107));
+    width: 24%;
+    height: 900px;
+    border: 3px black solid;
+    box-sizing: border-box;
+    float: left;
+    text-align: center;
+    margin-right: 1%;
+    padding-top: 20px;
+    
+}
+ul
+{
+    list-style:none;
+    font-size: x-large;
+    padding-left: 1px;
+}
+.link{
+    text-decoration: none;
+    color: rgb(7, 33, 3);
+    padding: 10px 10px;
+    margin-top: 300px;
+    line-height: 65px;
+    margin-bottom: 300px;
+    border: solid 0.5px lightblue;
+    gap: 5px;
+}
+.link:hover{
+    background-color: aliceblue;
+    color: gray;
+}
+
+span{
+    text-align: center;
+}
+.cont
+{
+    width: 240px;
+    color: rgb(226, 0, 75);
+    font-style: oblique;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 3px red solid;
+    margin-top: 170px;
+    margin-left: 150px;
+    padding: 30px;
+    box-sizing:content-box;
+    float: left;
+    text-align: center;
+    
+}
+.Bhavan
+{
+    height: 350px;
+    float: right;
+    margin: 20px;
+    margin-right: 100px;
+    border-radius: 34px;
+    border: 3px red groove;
+}
+#whatsapp
+{
+    border: 10px greenyellow groove;
+    float:right;
+    margin-right: 200px;
+    height: 300px;
+    width: 300px;
+}
+#Bhavyam
+{
+    height: 250px;
+    width: 200px;
+    border: firebrick solid 4px;
+    border-radius: 30%;
+}
+.Contact
+{
+    float: left;
+    margin: 200px;
+    color:saddlebrown;
+}
+#insta
+{
+    height: 300px;
+    width: 300px;
+    margin-top: 65px;
+    float: auto;
+}
