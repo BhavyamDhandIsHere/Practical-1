@@ -122,18 +122,3 @@ span{
     margin-right: 200px;
     float: right;
 }
-@media screen and (max-width:430px) {
-    aside{
-        float: none;
-        width: 100%;
-        height: max-content;
-    }
-
-    #car{
-        width: 100%;
-        height: 600px;
-    }
-    li{
-        display: inline;
-    }
-}
